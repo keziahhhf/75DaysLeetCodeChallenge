@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/keziahhhf/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/keziahhhf/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/keziahhhf/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/keziahhhf/75DaysLeetCodeChallenge/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
